@@ -1,0 +1,5 @@
+{
+  "name": "Desert Strike: Editor & Play",
+  "description": "A high-performance FPS engine and editor inspired by CS 1.6. Build, edit, and play in a seamless desert environment with real-time property manipulation and classic FPS mechanics.",
+  "requestFramePermissions": []
+}
